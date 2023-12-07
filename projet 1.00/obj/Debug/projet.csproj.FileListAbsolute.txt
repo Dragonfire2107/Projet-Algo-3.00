@@ -1,0 +1,8 @@
+C:\Users\mattp\OneDrive - De Vinci\ESILV\Semestre 3\Algorithmique & POO\projet\bin\Debug\projet.exe.config
+C:\Users\mattp\OneDrive - De Vinci\ESILV\Semestre 3\Algorithmique & POO\projet\bin\Debug\projet.exe
+C:\Users\mattp\OneDrive - De Vinci\ESILV\Semestre 3\Algorithmique & POO\projet\bin\Debug\projet.pdb
+C:\Users\mattp\OneDrive - De Vinci\ESILV\Semestre 3\Algorithmique & POO\projet\obj\Debug\projet.csproj.AssemblyReference.cache
+C:\Users\mattp\OneDrive - De Vinci\ESILV\Semestre 3\Algorithmique & POO\projet\obj\Debug\projet.csproj.SuggestedBindingRedirects.cache
+C:\Users\mattp\OneDrive - De Vinci\ESILV\Semestre 3\Algorithmique & POO\projet\obj\Debug\projet.csproj.CoreCompileInputs.cache
+C:\Users\mattp\OneDrive - De Vinci\ESILV\Semestre 3\Algorithmique & POO\projet\obj\Debug\projet.exe
+C:\Users\mattp\OneDrive - De Vinci\ESILV\Semestre 3\Algorithmique & POO\projet\obj\Debug\projet.pdb
